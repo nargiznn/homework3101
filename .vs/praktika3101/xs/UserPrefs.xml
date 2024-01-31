@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{40EC3FA6-BCFD-4537-94AF-69AD149FC211}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="praktika3101/Program.cs">
+    <Files>
+      <File FileName="praktika3101/Program.cs" Line="59" Column="1" />
+      <File FileName="praktika3101/StringList.cs" Line="27" Column="20" />
+      <File FileName="praktika3101/IntList.cs" Line="21" Column="4" />
+      <File FileName="praktika3101/HumanList.cs" Line="28" Column="1" />
+      <File FileName="praktika3101/Human.cs" Line="6" Column="1" />
+      <File FileName="praktika3101/MyList.cs" Line="26" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="praktika3101" expanded="True">
+            <Node name="praktika3101">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.praktika3101 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
